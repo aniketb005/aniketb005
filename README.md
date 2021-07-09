@@ -11,6 +11,17 @@ My Work/Projects:
 4. AXI4 Verification using UVM Methodology in SystemVerilog
 6. SoC Design using Cortex M3
 
+Course Based Assignments:
+
+1. C-Based VLSI Design
+2. Pipelining RISC V with Transaction level Verilog
+
+Miscellaneous work 
+
+1. RTL Design of Vending Machine FSM.
+2. Perl Scripts
+
+
 <!---
 aniketb005/aniketb005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
