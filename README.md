@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Aniket Bhojane, a Digital Baseband Engineer
 - 👀 I’m interested in Front-End VLSI, Computer Architecture and Digital Signal Processing.
 - 🌱 I’m currently working on 5 Stage Pipelined RISC-V Processor
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+My Work/Projects:
+
+1. RISC-V 32bit Processor RTL Design (Base Integer Instruction Set)
+2. Router 1x3 RTL Design and Verification
+3. UART Verification using UVM Methodology in SystemVerilog
+4. AXI4 Verification using UVM Methodology in SystemVerilog
+6. SoC Design using Cortex M3
 
 <!---
 aniketb005/aniketb005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
