@@ -13,8 +13,7 @@ My Work/Projects:
 
 Course Based Assignments:
 
-1. C-Based VLSI Design
-2. Pipelining RISC V with Transaction level Verilog
+1. Pipelining RISC V with Transaction level Verilog
 
 Miscellaneous work 
 
