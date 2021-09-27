@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aniket Bhojane, a Digital Baseband Engineer
+- 👋 Hi, I’m Aniket Bhojane, a Digital Baseband Engineer @ Astrome Technologies Pvt. Ltd. 
 - 👀 I’m interested in Front-End VLSI, Computer Architecture and Digital Signal Processing.
 - 🌱 I’m currently working on 5 Stage Pipelined RISC-V Processor
 - 📫 How to reach me ...
