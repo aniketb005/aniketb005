@@ -9,11 +9,6 @@ My Work/Projects:
 2. Router 1x3 RTL Design and Verification
 3. UART Verification using UVM Methodology in SystemVerilog
 4. AXI4 Verification using UVM Methodology in SystemVerilog
-6. SoC Design using Cortex M3
-
-Course Based Assignments:
-
-1. Pipelining RISC V with Transaction level Verilog
 
 Miscellaneous work 
 
