@@ -5,7 +5,7 @@
 My Work/Projects:
 
 1. RISC-V 32bit Processor RTL Design (Base Integer Instruction Set)
-2. Router 1x3 RTL Design and Verification
+2. RTL Design and Verification Router 1x3
 3. UART Verification using UVM Methodology in SystemVerilog
 4. AXI4 Verification using UVM Methodology in SystemVerilog
 
